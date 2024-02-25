@@ -3,7 +3,7 @@
 
 Submitted by: **Gideon Boateng**
 
-**Scavenger-Hunt** is an app that ... [TODO] 
+**Scavenger-Hunt** is an app that empowers users to embark on exciting adventures by completing tasks and challenges in real-world locations. 
 
 Time spent: **2** hours spent in total
 
